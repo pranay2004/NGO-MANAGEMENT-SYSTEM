@@ -1,0 +1,2 @@
+adminid = "admin"
+pwd = "admin"
